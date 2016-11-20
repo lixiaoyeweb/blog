@@ -395,12 +395,13 @@ html,body{
 .slide3 img:nth-child(3){
     width: 3.2rem;
     height: 5.7rem;
-   
+    top: -3px;
     float: left;
 }
 .slide3 img:nth-child(4){
     width: 3.2rem;
     height: 5.7rem;
+    top: -3px;
     
 }
 .slide3 img:nth-child(5){
